@@ -2,3 +2,6 @@ this is the first text file in our course.
 
 
 now more extra information will be added into the given repository to create it more.
+
+
+this is the third one of the commit
